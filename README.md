@@ -1,5 +1,5 @@
 # atividade-persistencia-recursos-wilker
-<br/> Atividade persistências e recursos nativos
+<br/> Atividade persistência e recursos nativos
 <br/> Aluno: Wilker Daniel de Brito Nunes
 <br/> Período: 9° Noturno
 <br/> Professor: André Flávio Clarimundo Rabelo
